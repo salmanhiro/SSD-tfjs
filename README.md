@@ -1,5 +1,5 @@
 # SSD-tfjs
-SSD Object Detection on Browser
+SSD Object Detection on Browser using React frontend
 
 # Start
 0. install `sudo npm install -g http-server` 
